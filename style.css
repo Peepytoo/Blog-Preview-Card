@@ -56,8 +56,17 @@ h1:hover{
 #img2{
     height: 32px;
 }
-#div4{
+#div5{
     margin-top: 24px;
+    display: inline-block;
+}
+#div6{
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 950;
+    margin-left: 12px;
+    align-items: center;
+    height: 100vh;
 }
 .attribution{
     position: absolute;
